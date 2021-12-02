@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calcular IMC</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc">Índice de Massa Corporal</string>
+</resources>
